@@ -39,5 +39,3 @@ Este proyecto consiste en el análisis, limpieza y preparación de un dataset pa
 * José Andrés Montes de Oca
 * Juan Sebastian Bonals
 * Federico Santiago Fontanari
-* [Integrante 4]
-* [Integrante 5]
